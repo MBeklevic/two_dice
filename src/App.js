@@ -1,6 +1,5 @@
-import logo from './logo.svg';
-import RollDice from "./RollDice"
-import './App.css';
+import RollDice from "./RollDice";
+import "./App.css";
 
 function App() {
   return (

@@ -1,4 +1,4 @@
-### Roll Dice Project
+## Roll Dice Project
 ### Dice Rolling Application with React
 
 ### Live Demo

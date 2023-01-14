@@ -9,6 +9,7 @@
 
 ## Features
 - User can roll 2 dice by clicking the button
+- Responsive Design
 
 ## Libraries
 - React
